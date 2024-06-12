@@ -37,61 +37,61 @@ const Section = () => {
       <div className="flex bg-zinc-900">
       <Marquee>
         <img
-          src="./Images/Images1.jpeg"
+          src="/Images1.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images2.jpeg"
+          src="/Images2.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images3.jpeg"
+          src="/Images3.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images4.jpeg"
+          src="/Images4.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images5.jpeg"
+          src="/Images5.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images6.jpeg"
+          src="/Images6.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images7.jpeg"
+          src="/Images7.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images8.jpeg"
+          src="/Images8.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images9.jpeg"
+          src="/Images9.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="./Images/Images10.jpeg"
+          src="/Images10.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />

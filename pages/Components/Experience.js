@@ -8,7 +8,7 @@ const Experience = () => {
     <div></div>
     <div className='flex justify-center items-center'>
        <div className='ml-20'>
-       <div className='text-xl mb-2 text-gray-4000'>Software Developer</div>
+       <div className='text-xl mb-2 text-gray-400'>Software Developer</div>
          <h1 className='mb-2 text-lg text-gray-400' >Centrahub</h1>
          <h1 className='mb-3 text-lg text-gray-400'>October 2022-Present</h1>
          <ul className="list-inside mb-4 ml-5 text-gray-400">
