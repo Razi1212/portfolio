@@ -91,12 +91,6 @@ const Section = () => {
           />
 
           <img
-            src="/Images10.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-
-          <img
             src="/Images11.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
