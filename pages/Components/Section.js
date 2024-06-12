@@ -61,7 +61,7 @@ const Section = () => {
           />
 
           <img
-            src="/Images16.jpeg"
+            src="./img2.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />
@@ -89,39 +89,13 @@ const Section = () => {
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />
-
           <img
-            src="/Images10.jpeg"
+            src="./Images9.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />
-
           <img
-            src="/Images11.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-
-          <img
-            src="/Images12.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-
-          <img
-            src="/Images13.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-
-          <img
-            src="/Images14.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-
-          <img
-            src="/Images15.jpeg"
+            src="./img6.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />

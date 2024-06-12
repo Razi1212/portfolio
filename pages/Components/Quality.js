@@ -12,7 +12,7 @@ const Quality = () => {
       </div>
       <div className="p-7 bg-white h-60  rounded-lg flex">
         <img
-          src="./images/psycho.jpg"
+          src="./psycho.jpg"
           alt="Image"
           className="object-cover object-center"
         />
