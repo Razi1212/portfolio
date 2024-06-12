@@ -37,49 +37,49 @@ const Section = () => {
       <div className="flex bg-zinc-900">
       <Marquee>
         <img
-          src="/Images1.jpeg"
+          src="./Images1.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images2.jpeg"
+          src="./Images2.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images3.jpeg"
+          src="./Images3.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images4.jpeg"
+          src="./Images4.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images5.jpeg"
+          src="./Images5.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images6.jpeg"
+          src="./Images6.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images7.jpeg"
+          src="./Images7.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
 
         <img
-          src="/Images8.jpeg"
+          src="./Images8.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
@@ -91,7 +91,7 @@ const Section = () => {
         />
 
         <img
-          src="/Images10.jpeg"
+          src="./Images10.jpeg"
           alt="Image"
           className="w-80 h-80 object-cover mx-6 rounded-lg"
         />
