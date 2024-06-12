@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mx-16 {
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .box:hover {
+    @apply scale-110;
+  }
+  
