@@ -27,7 +27,7 @@ const Section = () => {
         </div>
         <div className="flex items-center">
           <img
-            src="./Images/img9.jpeg"
+            src="./img9.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover rounded-full"
           />
@@ -35,66 +35,102 @@ const Section = () => {
       </div>
 
       <div className="flex bg-zinc-900">
-      <Marquee>
-        <img
-          src="./Images1.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+        <Marquee>
+          <img
+            src="./Images1.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images2.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images2.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images3.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images3.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images4.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images4.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images5.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images5.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images6.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images6.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images7.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images7.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images8.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="./Images8.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="/Images9.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="/Images10.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
 
-        <img
-          src="./Images10.jpeg"
-          alt="Image"
-          className="w-80 h-80 object-cover mx-6 rounded-lg"
-        />
+          <img
+            src="/Images10.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images11.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images12.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images13.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images14.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images15.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images16.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
         </Marquee>
       </div>
     </>
