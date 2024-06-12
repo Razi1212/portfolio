@@ -36,12 +36,6 @@ const Section = () => {
 
       <div className="flex bg-zinc-900">
         <Marquee>
-        <img
-            src="/Images16.jpeg"
-            alt="Image"
-            className="w-80 h-80 object-cover mx-6 rounded-lg"
-          />
-          
           <img
             src="./Images1.jpeg"
             alt="Image"
@@ -62,6 +56,12 @@ const Section = () => {
 
           <img
             src="./Images4.jpeg"
+            alt="Image"
+            className="w-80 h-80 object-cover mx-6 rounded-lg"
+          />
+
+          <img
+            src="/Images16.jpeg"
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />
@@ -125,8 +125,6 @@ const Section = () => {
             alt="Image"
             className="w-80 h-80 object-cover mx-6 rounded-lg"
           />
-
-        
         </Marquee>
       </div>
     </>
